@@ -29,7 +29,7 @@
 #include "sprite.h"
 #include "preference.h"
 #include "utils.h"
-
+using namespace std;
 /*** Variables Globales ***/
 /**************************/
 extern SDL_Surface *sdlVideo;

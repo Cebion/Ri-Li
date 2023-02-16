@@ -38,7 +38,7 @@
 #include "tableau.h"
 #include "editeur.h"
 #include "utils.h"
-
+using namespace std;
 /*** Variables globales ***/
 /************************/
 SDL_Surface *sdlVideo; // Pointe sur l'écran video

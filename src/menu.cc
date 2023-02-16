@@ -31,7 +31,7 @@
 #include "ecran.h"
 #include "mouse.h"
 #include "audio.h"
-
+using namespace std;
 #define PY 180
 
 /*** Variables globales ***/

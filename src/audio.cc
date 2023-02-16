@@ -28,7 +28,7 @@
 #include "audio.h"
 #include "utils.h"
 #include "preference.h"
-
+using namespace std;
 /*** Variable globales ***/
 /*************************/
 extern sPreference Pref;

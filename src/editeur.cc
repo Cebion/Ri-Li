@@ -37,7 +37,7 @@
 #include "jeux.h"
 #include "tableau.h"
 #include "mouse.h"
-
+using namespace std;
 /*** Variables globales ***/
 /**************************/
 extern SDL_Surface *sdlVideo;

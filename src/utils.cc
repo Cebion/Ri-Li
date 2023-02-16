@@ -36,6 +36,7 @@
 #include "preference.h"
 #include "sprite.h"
 
+using namespace std;
 /*** Variables globales ***/
 /**************************/
 extern sPreference Pref;
